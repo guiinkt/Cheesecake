@@ -74,7 +74,7 @@ ul {
 @media (min-width: 770px) {
   main {
     flex-direction: row;
-    max-width: 100%;
+    max-width: fit-content;
     gap: 16rem;
   }
 
