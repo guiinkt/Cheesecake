@@ -72,5 +72,7 @@ ul {
 }
 
 @media (min-width: 770px) {
-  
+  main {
+    flex-direction: row;
+  }
 }
