@@ -87,4 +87,9 @@ ul {
   .ingredients {
     max-width: 52.5rem;
   }
+
+  h1, h2 {
+    font-size: 4rem;
+    line-height: 5rem;
+  }
 }
