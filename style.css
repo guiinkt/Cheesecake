@@ -76,4 +76,9 @@ ul {
     flex-direction: row;
     max-width: 100%;
   }
+
+  main > div {
+    flex: 1;
+    max-width: 50rem;
+  }
 }
