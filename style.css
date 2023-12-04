@@ -71,7 +71,7 @@ ul {
   margin-bottom: 1.8rem;
 }
 
-@media (min-width: 770px) {
+@media (min-width: 1120px) {
   main {
     flex-direction: row;
     max-width: fit-content;
